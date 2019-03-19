@@ -1,0 +1,113 @@
+* {
+	font-family: Arial;
+	font-weight: bold;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.topo {
+	height: 50px;
+	background-color: #353535
+}
+
+.topointerior {
+	width: 1500px;
+	margin: auto;
+	color: #ffffff;
+}
+
+.logomarca {
+	float: left;
+	font-size: 24px;
+	line-height: 50px;
+}
+
+.menu {
+	float: right;
+}
+
+.menu ul, .menu li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 50px;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.menu li:hover {
+	background-color: #3480c1;
+}
+
+.banner {
+	height: 300px;
+	background-color: #347aba;
+}
+
+.bannerint {
+	width: 1500px;
+	margin: auto;
+}
+
+.banneresq {
+	float: left;
+}
+
+.bannerdir {
+	float: right;
+	margin-right: 55px;
+}
+
+.fraseum {
+	font-size: 48px;
+	color: white;
+	margin-top: 60px;
+}
+
+.frasedois {
+	font-size: 20px;
+	color: white;
+}
+
+.botao {
+	background-color: #ffc001;
+	width: 280px;
+	height: 55;
+	font-size: 20px;
+	text-align: center;
+	line-height: 55px;
+	margin-top: 20px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.conteudoint {
+	width: 1500px;
+	margin: auto;
+}
+
+.maisvendidos {
+	height: 90px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 90px;
+}
+
+.fotos img {
+	margin-left: 115;
+}
+
+.rodape {
+	background-color: #347aba;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	margin-top: 40px;
+	color: white;
+}
